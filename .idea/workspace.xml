@@ -7,6 +7,9 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/ziyue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1222/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1222/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1222/33.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test1/1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,16 +35,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test1/1.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/ziyue.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/1222/11.py" />
+        <option value="$PROJECT_DIR$/1222/22.py" />
+        <option value="$PROJECT_DIR$/1222/33.py" />
       </list>
     </option>
   </component>
@@ -62,11 +58,6 @@
             <path>
               <item name="ziyue" type="b2602c69:ProjectViewProjectNode" />
               <item name="ziyue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyue" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyue" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,6 +119,15 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test1/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1222/22.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1222/11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1222/33.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
