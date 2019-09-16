@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5465037-3444-42ec-b44a-3f167a0596ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ziyue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1222/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1222/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1222/33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/1.py" afterDir="false" />
-    </list>
+    <list default="true" id="d5465037-3444-42ec-b44a-3f167a0596ba" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +9,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ziyue.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,6 +34,7 @@
         <option value="$PROJECT_DIR$/1222/11.py" />
         <option value="$PROJECT_DIR$/1222/22.py" />
         <option value="$PROJECT_DIR$/1222/33.py" />
+        <option value="$PROJECT_DIR$/ziyue.py" />
       </list>
     </option>
   </component>
@@ -97,13 +94,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1396" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32939634" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.70341206" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -128,6 +126,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/1222/33.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ziyue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
